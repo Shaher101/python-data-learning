@@ -1,4 +1,3 @@
-# python-data-learning
 # Python Data Learning
 
 This repository contains practice Jupyter notebooks created as part of my learning journey in data analysis and machine learning using Python.
